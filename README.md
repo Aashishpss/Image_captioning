@@ -13,8 +13,8 @@ This repository provides a Python-based implementation for image captioning usin
 To run this project, ensure you have the following:
 
 - Python 3.x
-- TensorFlow
-- Keras
+- PyTorch
+- Torchvision
 - NumPy
 - Matplotlib
 - PIL (Pillow)
