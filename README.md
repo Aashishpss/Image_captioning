@@ -22,10 +22,11 @@ To run this project, ensure you have the following:
 
 Install the required dependencies using:
 
-```sh
-pip install tensorflow keras numpy matplotlib pillow tqdm
 
-How to Use
+    pip install tensorflow keras numpy matplotlib pillow tqdm
+
+
+## How to Use
 
     Clone the Repository:
 
